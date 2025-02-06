@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/1nfuhsWhklhEm3aBt4oTeSfsfRPGNv7g6?usp=sh
 ![image](media/north_west_hemisphere.png)
 
 ## Southern East Hemisphere
-![image](media/south_east_hemisphere.png)
+![image](media/south_east_hemishpere.png)
 
 ## Southern West Hemisphere
 ![image](media/south_west_hemisphere.png)
